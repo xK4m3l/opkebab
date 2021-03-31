@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+ <remote name="kebab"
+          fetch="https://github.com/PE-BS"
+          revision="eleven-plus" />
+
+<!-- device tree -->
+  <project path="kernel/oneplus/sm8250" name="kernel_xiaomi_polaris" remote="kebab" />
+  <project path="device/oneplus/kebab" name="device_oneplus_kebab" remote="kebab" />
+  <project path="device/oneplus/sm8250-common" name="device_oneplus_sm8250-common" remote="kebab" />
+  <project path="vendor/oneplus/kebab" name="vendor_oneplus_kebab" remote="kebab" />
+  <project path="vendor/oneplus/sm8250-common" name="vendor_oneplus_sm8250-common" remote="kebab" />
+  <project path="device/oneplus/common" name="device_oneplus_common" remote="kebab" />
+</manifest>
