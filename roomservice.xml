@@ -3,8 +3,10 @@
 <!-- device tree -->
   <project path="kernel/oneplus/sm8250" name="blankaf/hasty_instantnoodle" remote="github" revision="Hasty" />
   <project path="device/oneplus/kebab" name="ShapeShiftOS-Devices/device_oneplus_kebab" remote="github" revision="android_11"/>
-  <project path="device/oneplus/sm8250-common" name="ShapeShiftOS-Devices/device_oneplus_sm8250-common" remote="github" revision="android_11"/>
+  <project path="device/oneplus/instantnoodle" name="ShapeShiftOS-Devices/device_oneplus_instantnoodle" remote="github" revision="android_11"/>
+  <project path="device/oneplus/sm8250-common" name="san9-s-dumpster/device_oneplus_sm8250-common" remote="github" revision="android_11"/>
   <project path="vendor/oneplus/kebab" name="ShapeShiftOS-Devices/vendor_oneplus_kebab" remote="github" revision="android_11"/>
   <project path="vendor/oneplus/sm8250-common" name="ShapeShiftOS-Devices/vendor_oneplus_sm8250-common" remote="github" revision="android_11"/>
+  <project path="vendor/oneplus/instantnoodle" name="ShapeShiftOS-Devices/vendor_oneplus_instantnoodle" remote="github" revision="android_11"/>
   <project path="device/oneplus/common" name="cjh1249131356/device_oneplus_common" remote="github" revision="eleven"/>
 </manifest>
